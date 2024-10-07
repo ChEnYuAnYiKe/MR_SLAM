@@ -9,6 +9,8 @@ add_definitions(-msse -msse2 -msse3 -msse4 -msse4.1 -msse4.2)
 set(CMAKE_CXX_FLAGS "-msse -msse2 -msse3 -msse4 -msse4.1 -msse4.2")
 set(CMAKE_CXX_STANDARD 11)
 
+set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/.." ${CMAKE_MODULE_PATH})
+
 # Find catkin macros and libraries
 find_package(catkin REQUIRED COMPONENTS
   fast_gicp
