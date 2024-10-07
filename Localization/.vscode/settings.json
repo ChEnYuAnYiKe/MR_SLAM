@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/cyy/MR_SLAM/Localization/devel/lib/python3/dist-packages",
+        "/home/cyy/ego-planner-swarm/devel/lib/python3/dist-packages",
+        "/home/cyy/livox_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/cyy/MR_SLAM/Localization/devel/lib/python3/dist-packages",
+        "/home/cyy/ego-planner-swarm/devel/lib/python3/dist-packages",
+        "/home/cyy/livox_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

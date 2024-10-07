@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/cyy/MR_SLAM/LoopDetection/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/cyy/MR_SLAM/LoopDetection/src/fast_gicp/include/**",
+        "/home/cyy/MR_SLAM/LoopDetection/src/geometry2/tf2/include/**",
+        "/home/cyy/MR_SLAM/LoopDetection/src/geometry2/tf2_bullet/include/**",
+        "/home/cyy/MR_SLAM/LoopDetection/src/geometry2/tf2_eigen/include/**",
+        "/home/cyy/MR_SLAM/LoopDetection/src/geometry2/tf2_geometry_msgs/include/**",
+        "/home/cyy/MR_SLAM/LoopDetection/src/geometry2/tf2_kdl/include/**",
+        "/home/cyy/MR_SLAM/LoopDetection/src/geometry2/tf2_msgs/include/**",
+        "/home/cyy/MR_SLAM/LoopDetection/src/geometry2/tf2_ros/include/**",
+        "/home/cyy/MR_SLAM/LoopDetection/src/geometry2/tf2_sensor_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
